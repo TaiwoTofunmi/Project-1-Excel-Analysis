@@ -37,10 +37,9 @@ This project analyzes product and customer review data from Amazon using Excel. 
 
 - **Dashboard**
 
-![Dashboard Screenshot](screenshots/dashboard.png)
 
 
 ## Files Included
 
-- `Amazon_case_study.xlsx` – Main file with all analysis and dashboard
+- `Amazon_case stud_JT.xlsx` – Main file with all analysis and dashboard
 - `screenshots/` – Folder with analysis visuals
